@@ -27,3 +27,20 @@ Embu Guaçu é um município no estado de São Paulo, enfrentando desafios como 
 Se você deseja contribuir com nosso projeto ou saber mais sobre nossa jornada, sinta-se à vontade para entrar em contato conosco. Estamos entusiasmados em trabalhar com pessoas que compartilham nossa paixão pela inovação e pelo desenvolvimento sustentável.
 
 Junte-se a nós na missão de fazer do mundo um lugar melhor por meio da tecnologia e da empatia.
+
+## Autores
+
+[<img src="https://github.com/Torugo0.png" width="80">](https://github.com/Torugo0)  
+*Vitor Hugo*
+
+[<img src="https://github.com/letyresina.png" width="80">](https://github.com/letyresina)  
+*Leticia Resina*
+
+[<img src="https://github.com/lvininicius.png" width="80">](https://github.com/lvininicius)  
+*Lucas Vinicius de Almeida*
+
+[<img src="https://github.com/JBVJoaoV.png" width="80">](https://github.com/JBVJoaoV)  
+*João Pedro de Souza*
+
+[<img src="https://github.com/JoaoChambrone.png" width="80">](https://github.com/JoaoChambrone)  
+*João Pedro Chambrone*
